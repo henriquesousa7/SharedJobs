@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SomeViews</string>
+    <string-array name="formacao">
+        <item>Fundamental</item>
+        <item>Medio</item>
+        <item>Graduacao</item>
+        <item>Especializacao</item>
+        <item>Mestrado</item>
+        <item>Doutorado</item>
+    </string-array>
+</resources>
